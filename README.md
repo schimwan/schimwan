@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @schimwan
 - 👀 I’m interested in automation and data analysis
 - 🌱 I’m currently learning to create reports for decision making in Power BI
-- 💞️ I’m looking to collaborate on python labs
+- 💞️ I’m looking for collaborating on python labs
 
 <!---
 schimwan/schimwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
