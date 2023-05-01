@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @schimwan
-- 👀 I’m interested in automation of financial analysis 
+- 👀 I’m interested in automation and data analysis
 - 🌱 I’m currently learning to create reports for decision making in Power BI
 - 💞️ I’m looking to collaborate on python labs
 
